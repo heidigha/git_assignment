@@ -2,7 +2,7 @@
     # Git Assignment - heidigha
     ```
 
-a. What is an issue?
+a. What is an issue?  
 
 In GitHub, an issue is a versatile tool for tracking tasks, bugs, feature requests, and other items within a project repository. It serves as a collaborative space where team members can discuss, organize, and manage work, typically including a title, description, labels, assignees, and comments.
 
